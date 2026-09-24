@@ -2,7 +2,7 @@
 
 **OpsDesk · Middle Office Training Simulator**
 
-[Try the demo — no sign-in](https://opsdesksim.com/workspace.html?mode=demo)
+[Try the demo, no sign-in](https://opsdesksim.com/workspace.html?mode=demo)
 
 ## Homepage
 
