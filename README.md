@@ -21,3 +21,7 @@ Compare internal bookings with broker confirmations, identify mismatches and che
 Review supporting evidence, identify the cause of a mismatch and choose the next action.
 
 ![OpsDesk investigation screen showing a quantity mismatch, evidence and decision options](screenshots/investigation.jpg)
+
+Built by Lucas Taylor-Kent
+
+https://www.linkedin.com/in/lucas-taylor-kent/
