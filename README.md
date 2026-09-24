@@ -6,7 +6,7 @@
 
 ## Homepage
 
-Choose the 30-stage campaign or try a short reconciliation demo.
+Choose the 30-stage campaign or try a short demo.
 
 ![OpsDesk homepage showing the campaign and quick demo](screenshots/home.jpg)
 
