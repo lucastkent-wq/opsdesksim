@@ -1,15 +1,23 @@
-# [Open OpsDesk → opsdesksim.com](https://opsdesksim.com)
+# [Visit OpsDesk → opsdesksim.com](https://opsdesksim.com)
 
-## OpsDesk — Middle Office Training Simulator
+**OpsDesk · Middle Office Training Simulator**
 
-### Reconciliation workspace
+[Try the quick demo — no sign-in required](https://opsdesksim.com/workspace.html?mode=demo)
 
-![OpsDesk reconciliation workspace showing internal bookings, broker confirmations and review decisions](screenshots/reconciliation.jpg)
+## Homepage
 
-### Investigating discrepancies
+Choose the 30-stage campaign or try a short reconciliation demo.
 
-![OpsDesk investigation screen with source records, supporting evidence, diagnosis and next-action choices](screenshots/investigation.jpg)
+![OpsDesk homepage showing the campaign and quick demo](screenshots/home.jpg)
 
-### Campaign and demo
+## Demo — reconcile trades
 
-![OpsDesk home screen with the 30-stage campaign and quick demo](screenshots/home.jpg)
+Compare internal bookings with broker confirmations, identify mismatches and check your answers.
+
+![OpsDesk demo with internal bookings and broker confirmations side by side](screenshots/reconciliation.jpg)
+
+## Investigate a discrepancy
+
+Review supporting evidence, identify the cause of a mismatch and choose the next action.
+
+![OpsDesk investigation screen showing a quantity mismatch, evidence and decision options](screenshots/investigation.jpg)
